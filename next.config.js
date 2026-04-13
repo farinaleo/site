@@ -1,10 +1,7 @@
-// @ts-check
-
-/**
- * @type {import('next').NextConfig}
- **/
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export",
+  output: 'export',
+  // Add other Next.js config options here if needed
 };
 
 module.exports = nextConfig;
